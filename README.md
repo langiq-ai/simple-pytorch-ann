@@ -42,7 +42,7 @@ pip install torch torchvision numpy
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/simple-ann-pytorch.git
+git clone https://github.com/langiq-ai/simple-pytorch-ann.git
 cd simple-ann-pytorch
 ```
 
